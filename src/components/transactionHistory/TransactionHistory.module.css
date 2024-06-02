@@ -21,5 +21,5 @@
 }
 
 .transactioHistory tr:nth-child(2n) {
-  background-color: rgb(255, 242, 0);
+  background-color: rgb(255, 240, 0);
 }
