@@ -1,6 +1,6 @@
 {
   "name": "react-playground",
-  "private": true,
+  "private": false,
   "homepage": "https://mareckkkk.github.io/goit-react-hw-01-components/",
   "version": "0.0.0",
   "type": "module",
